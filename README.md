@@ -1,1 +1,2 @@
 # Projeto-Royal-Scoth-Bar
+In this repository are stored some works that I carried out in the discipline of Systems Analysis and Design, from the Computer Engineering course at the Federal Institute of Education, Science and Technology of Minas Gerais - Campus Bambuí. A priori, the requirements were raised, the basic plan was defined, the methodology used was scrum and kanban, the real software was built for a real customer in 3 months.
